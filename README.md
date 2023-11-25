@@ -1,5 +1,8 @@
 # laravel_UIkit
 Laravel 9.52 with UIkit framework
+After installation, RUN NPM INSTALL.
+Additional CSS in resources/css/mysite.css
+If you add style, don't forget to run NPM RUN BUILD.
 
 Installed packages:
 "require": {
