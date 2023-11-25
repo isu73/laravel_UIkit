@@ -4,7 +4,10 @@
     "description": "Laravel Framework 9.52 with UIkit framework.",
     "keywords": ["framework", "laravel", "uikit"],
     "license": "MIT",
-    "minimum-stability": "stable",
+    "repositories": {
+        "type": "vcs",
+         "url": "https://github.com/isu73/laravel_UIkit"        
+    },
     "require": {
         "php": "^8.0.2",
         "ext-curl": "*",
@@ -69,6 +72,5 @@
             "pestphp/pest-plugin": true
         }
     },
-    "minimum-stability": "stable",
     "prefer-stable": true
 }
