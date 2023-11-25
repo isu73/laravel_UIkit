@@ -4,6 +4,7 @@
     "description": "Laravel Framework 9.52 with UIkit framework.",
     "keywords": ["framework", "laravel", "uikit"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0.2",
         "ext-curl": "*",
